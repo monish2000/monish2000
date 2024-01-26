@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm S.R Monish Raj</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-📫 How to reach me **srs2kin04@gmail.com**
+- 📫 How to reach me **srs2kin04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/srmonishraj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srmonishraj1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/monish2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monish2000" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/s-r-monish-raj-32b70028b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-r-monish-raj-32b70028b" height="30" width="40" /></a>
 <a href="https://discord.gg/monish2319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="monish2319" height="30" width="40" /></a>
 </p>
 
